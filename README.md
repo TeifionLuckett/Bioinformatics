@@ -1,2 +1,2 @@
 # Bioinformatics
-Deposited code from several proteomic and genomic analyses conducted as part of my PhD project and collaborations with other researchers
+Portofolio of deposited code from genomic and proteomic analyses conducted as part of my main PhD project, side projects and collaborations.
